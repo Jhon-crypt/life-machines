@@ -1,18 +1,22 @@
+import Header from "../../header/header"
+
 function HeaderHero() {
 
     return (
 
         <>
 
-            <section className="pt-6 pb-20 overflow-hidden">
+            <section className="pt-6 pb-20 overflow-hidden" style={{
+                backgroundImage: "url('https://shuffle.dev/zanrly-assets/images/headers/mountain.jpg')", backgroundSize: "cover",
+                backgroundPosition: "center", backgroundRepeat: "no-repeat"
+            }}>
 
-                <div className="container mx-auto px-4">
+                <Header />
 
-                    <div className="px-8 py-20 bg-white overflow-hidden rounded-3xl"
-                        style={{
-                            backgroundImage: "url('https://shuffle.dev/zanrly-assets/images/headers/mountain.jpg')", backgroundSize: "cover",
-                            backgroundPosition: "center", backgroundRepeat: "no-repeat"
-                        }}>
+                <div className="container mx-auto px-4 mt-7">
+
+                    <div className="px-8 py-20 overflow-hidden rounded-3xl"
+                        >
                         <div className="md:max-w-2xl text-center mx-auto">
                             <span className="inline-block mb-3 text-sm text-blue-500 font-bold uppercase tracking-widest">
                                 Best caption here

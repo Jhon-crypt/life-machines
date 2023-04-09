@@ -7,9 +7,9 @@ function Header() {
 
         <>
 
-            <div className="container mx-auto mt-3">
+            <div className="relative bg-transparent">
 
-                <div className="navbar bg-neutral rounded-3xl">
+                <div className="navbar fixed top-5 left-0 right-0 rounded-full mb-5">
 
                     <Navbar />
                     

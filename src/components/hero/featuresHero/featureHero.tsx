@@ -1,4 +1,6 @@
 import FeaturesOne from "./featuresOne"
+import FeaturesTwo from "./featuresTwo"
+import FeaturesThree from "./featuresThree"
 
 function FeatureHero(){
 
@@ -7,6 +9,10 @@ function FeatureHero(){
         <>
         
             <FeaturesOne />
+
+            <FeaturesTwo />
+
+            <FeaturesThree />
         
         </>
 
