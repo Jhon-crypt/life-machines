@@ -12,7 +12,7 @@ function FeaturesOne() {
                             <div className="w-full md:w-1/2 p-8">
                                 <div className="md:max-w-md"><span className="inline-block mb-5 text-sm text-secondary font-bold uppercase tracking-widest">Feature</span>
                                     <h2 className="font-heading mb-4 text-4xl text-accent font-black tracking-tight"><span>Let’s track your business </span><span className="text-secondary">easily!</span></h2>
-                                    <p className="mb-16 font-bold">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis venenatis volutpat velit.</p>
+                                    <p className="mb-16 font-bold text-accent">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis venenatis volutpat velit.</p>
                                     <div className="flex flex-wrap -m-2">
                                         <div className="w-auto p-2">
                                             <div className="flex flex-wrap px-3 py-2 bg-gray-100 rounded-full">

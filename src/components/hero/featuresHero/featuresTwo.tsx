@@ -40,7 +40,7 @@ function FeaturesTwo() {
                                                 </div>
                                                 <div className="flex-1 p-3">
                                                     <h3 className="font-heading mb-2 text-xl text-accent font-black">Lorem ipsum dolores</h3>
-                                                    <p className="text-sm text-acccent font-bold">Lorem ipsum dolor sit amet sectetur adip elit donec.</p>
+                                                    <p className="text-sm text-accent font-bold">Lorem ipsum dolor sit amet sectetur adip elit donec.</p>
                                                 </div>
                                             </div>
                                         </div>
