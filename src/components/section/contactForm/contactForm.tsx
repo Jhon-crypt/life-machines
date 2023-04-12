@@ -46,7 +46,7 @@ function ContactForm() {
                                 </div>
                                 <div className="w-full p-3">
                                     <div className="flex flex-wrap md:justify-end -m-2">
-                                        <div className="w-full p-2"><a className="block w-full px-8 py-3.5 text-lg text-center text-white font-bold bg-blue-500 hover:bg-blue-600 focus:ring-4 focus:ring-blue-200 rounded-full" href="#">Send Message</a></div>
+                                        <div className="w-full p-2"><a className="block w-full px-8 py-3.5 text-lg text-center bg-secondary text-primary-focus hover:bg-primary hover:text-secondary rounded-full font-bold" href="#">Send Message</a></div>
                                     </div>
                                 </div>
                             </div>

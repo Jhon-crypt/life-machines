@@ -3,6 +3,7 @@ import FeatureHero from "./components/hero/featuresHero/featureHero"
 import FeatureSection from "./components/section/featureSection"
 import HowItWorks from "./components/section/howItWorksSection"
 import ContactSection from "./components/section/contactSection"
+import FooterSection from "./components/section/footerSection"
 
 function App() {
 
@@ -13,6 +14,7 @@ function App() {
       <FeatureSection />
       <HowItWorks />
       <ContactSection />
+      <FooterSection />
     </>
   )
 }
