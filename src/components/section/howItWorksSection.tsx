@@ -20,7 +20,7 @@ function HowItWorks() {
                                     <div className="w-full h-px bg-gray-200 hover:bg-primary"></div>
                                 </div>
                             </div>
-                            <h3 className="text-xl font-semibold leading-normal md:max-w-xs">A complete UI kit for building your business</h3>
+                            <h3 className="text-xl font-semibold leading-normal md:max-w-xs">Check out our social media pages now!</h3>
                         </div>
 
                         <div className="w-full md:w-1/2 lg:w-1/4 p-8 hover:bg-base-100 hover:rounded-lg hover:drop-shadow-lg hover:text-secondary">
@@ -34,7 +34,7 @@ function HowItWorks() {
                                     <div className="w-full h-px bg-gray-200 hover:bg-secondary"></div>
                                 </div>
                             </div>
-                            <h3 className="text-xl font-semibold leading-normal md:max-w-xs">A complete UI kit for building your business</h3>
+                            <h3 className="text-xl font-semibold leading-normal md:max-w-xs">Choose your preferred item on our social platforms</h3>
                         </div>
 
                         <div className="w-full md:w-1/2 lg:w-1/4 p-8 hover:bg-base-100 hover:rounded-lg hover:drop-shadow-lg hover:text-primary">
@@ -48,7 +48,7 @@ function HowItWorks() {
                                     <div className="w-full h-px bg-gray-200 hover:bg-primary"></div>
                                 </div>
                             </div>
-                            <h3 className="text-xl font-semibold leading-normal md:max-w-xs">A complete UI kit for building your business</h3>
+                            <h3 className="text-xl font-semibold leading-normal md:max-w-xs">Receive order, pay/confirm payment promptly</h3>
                         </div>
 
                         <div className="w-full md:w-1/2 lg:w-1/4 p-8 hover:bg-base-100 hover:rounded-lg hover:drop-shadow-lg hover:text-secondary">
@@ -62,7 +62,7 @@ function HowItWorks() {
                                     <div className="w-full h-px bg-gray-200 hover:bg-secondary"></div>
                                 </div>
                             </div>
-                            <h3 className="text-xl font-semibold leading-normal md:max-w-xs">A complete UI kit for building your business</h3>
+                            <h3 className="text-xl font-semibold leading-normal md:max-w-xs">You're happy upon order arrival, we're delighted!</h3>
                         </div>
 
                     </div>
