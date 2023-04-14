@@ -1,3 +1,5 @@
+import FeatureImage2 from "../../../assets/feature2.jpg"
+
 function FeaturesTwo() {
 
     return (
@@ -47,7 +49,7 @@ function FeaturesTwo() {
                                     </div>
                                 </div>
                             </div>
-                            <div className="w-full md:w-1/2 p-8"><img className="mx-auto md:mr-0 rounded-3xl" src="https://shuffle.dev/zanrly-assets/images/features/business.png" alt=""/></div>
+                            <div className="w-full md:w-1/2 p-8"><img className="mx-auto md:mr-0 rounded-3xl" src={FeatureImage2} alt="Feature image three"/></div>
                         </div>
                     </div>
                 </div>

@@ -1,3 +1,5 @@
+import FeatureImg from "../../../assets/feature1a.jpg"
+
 function FeaturesOne() {
 
     return (
@@ -8,7 +10,7 @@ function FeaturesOne() {
                 <div className="container mx-auto px-4">
                     <div className="py-16 px-8 md:px-16 bg-neutral rounded-3xl">
                         <div className="flex flex-wrap -m-8">
-                            <div className="w-full md:w-1/2 p-8"><img className="mx-auto md:ml-0 rounded-3xl" src="https://shuffle.dev/zanrly-assets/images/features/business.png" alt=""/></div>
+                            <div className="w-full md:w-1/2 p-8"><img className="mx-auto md:ml-0 rounded-3xl" src={FeatureImg} alt="Feature image one"/></div>
                             <div className="w-full md:w-1/2 p-8">
                                 <div className="md:max-w-md"><span className="inline-block mb-5 text-sm text-secondary font-bold uppercase tracking-widest">Feature</span>
                                     <h2 className="font-heading mb-4 text-4xl text-accent font-black tracking-tight"><span>Let’s track your business </span><span className="text-secondary">easily!</span></h2>
