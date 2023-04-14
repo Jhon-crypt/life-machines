@@ -1,5 +1,6 @@
 import FeatureImage4 from "../../assets/feature4.jpg"
 import FeatureImage5 from "../../assets/feature5.jpg"
+import FeatureImage6 from "../../assets/feature6.jpg"
 
 function FeatureSection() {
 
@@ -37,7 +38,7 @@ function FeatureSection() {
                         <div className="w-full md:w-1/3 p-3">
                             <a className="flex justify-center md:block h-full" href="#">
                                 <div className="relative h-full rounded-3xl overflow-hidden">
-                                    <img className="h-full md:w-full object-cover transform hover:scale-105 transition ease-in-out duration-1000" src="https://shuffle.dev/flaro-assets/images/features/product3.png" alt=""/>
+                                    <img className="h-full md:w-full object-cover transform hover:scale-105 transition ease-in-out duration-1000" src={FeatureImage6} alt=""/>
                                         
                                 </div>
                             </a>
