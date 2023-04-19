@@ -1,4 +1,4 @@
-import logo from "../../assets/logo.png"
+
 
 function FooterSection() {
 
@@ -12,7 +12,7 @@ function FooterSection() {
                         <div className="flex flex-col justify-center">
 
                             <a className="inline-block max-w-max mx-auto mb-5" href="#">
-                                <img className="rounded-3xl" src={logo} alt="" width="100px" height="100px" />
+                                <img className="rounded-3xl" src="https://res.cloudinary.com/db7wwc9ex/image/upload/v1681922142/logo_gbvs7j.png" alt="" width="100px" height="100px" />
                             </a>
                             
                             <ul className="-m-6 mb-7 text-center">
