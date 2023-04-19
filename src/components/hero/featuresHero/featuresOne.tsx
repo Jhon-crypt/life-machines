@@ -15,7 +15,7 @@ function FeaturesOne() {
 
                                     borderRadius: "30% 70% 70% 30% / 30% 30% 70% 70% "
 
-                                 }} className="mx-auto md:ml-0 rounded-3xl" src={FeatureImg} alt="Feature image one"/>
+                                 }} className="mx-auto md:ml-0 rounded-3xl" src="https://res.cloudinary.com/db7wwc9ex/image/upload/v1681922141/feature1a_esekhh.jpg" alt="Feature image one"/>
                             </div>
                             <div className="w-full md:w-1/2 p-8">
                                 <div className="md:max-w-md"><span className="inline-block mb-5 text-sm text-secondary font-bold uppercase tracking-widest">A Tailored Solution</span>

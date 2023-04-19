@@ -1,5 +1,4 @@
 import Header from "../../header/header"
-import bg from "../../../assets/heading.jpg"
 
 function HeaderHero() {
 
@@ -8,7 +7,7 @@ function HeaderHero() {
         <>
 
             <section className="pt-6 pb-20 overflow-hidden" style={{
-                backgroundImage: `url(${bg})`, backgroundSize: "cover",
+                backgroundImage: "url('https://res.cloudinary.com/db7wwc9ex/image/upload/v1681922143/heading_tlcoxh.jpg')", backgroundSize: "cover",
                 backgroundPosition: "center", backgroundRepeat: "no-repeat"
             }}>
 

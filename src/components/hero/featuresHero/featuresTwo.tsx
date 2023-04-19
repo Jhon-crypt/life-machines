@@ -1,4 +1,3 @@
-import FeatureImage2 from "../../../assets/feature2.jpg"
 
 function FeaturesTwo() {
 
@@ -54,7 +53,7 @@ function FeaturesTwo() {
 
                                     borderRadius: "30% 70% 70% 30% / 30% 30% 70% 70% "
 
-                                }} className="mx-auto md:mr-0 rounded-3xl" src={FeatureImage2} alt="Feature image three" />
+                                }} className="mx-auto md:mr-0 rounded-3xl" src="https://res.cloudinary.com/db7wwc9ex/image/upload/v1681922141/feature2_udbshs.jpg" alt="Feature image three" />
                             </div>
                         </div>
                     </div>

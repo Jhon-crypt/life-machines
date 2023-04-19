@@ -1,4 +1,3 @@
-import logo from "../../assets/logo.png"
 
 function Navbar() {
 
@@ -27,7 +26,7 @@ function Navbar() {
                     </ul>
                 </div>
                 <a className="btn btn-ghost normal-case text-xl">
-                    <img className="rounded-3xl" src={logo} alt="" width="30px" height="30px" />
+                    <img className="rounded-3xl" src="https://res.cloudinary.com/db7wwc9ex/image/upload/v1681922142/logo_gbvs7j.png" alt="" width="30px" height="30px" />
                     <span className="text-secondary">Life</span><b><span className="text-primary">Machines</span></b>
                 </a>
             </div>

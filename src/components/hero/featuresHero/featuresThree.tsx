@@ -1,4 +1,3 @@
-import FeatureImage3 from "../../../assets/feature3.jpg"
 
 function FeaturesThree() {
 
@@ -15,7 +14,7 @@ function FeaturesThree() {
 
                                     borderRadius: "30% 70% 70% 30% / 30% 30% 70% 70% "
 
-                                }} className="mx-auto md:ml-0 rounded-3xl" src={FeatureImage3} alt="Feature image three" />
+                                }} className="mx-auto md:ml-0 rounded-3xl" src="https://res.cloudinary.com/db7wwc9ex/image/upload/v1681922141/feature3_hldgdz.jpg" alt="Feature image three" />
                             </div>
                             <div className="w-full md:w-1/2 p-8">
                                 <div className="md:max-w-md"><span className="inline-block mb-5 text-sm text-secondary font-bold uppercase tracking-widest">Empowerment</span>
