@@ -11,8 +11,8 @@ function FeaturesTwo() {
                     <div className="py-16 px-8 md:px-16 rounded-3xl">
                         <div className="flex flex-wrap -m-8">
                             <div className="w-full md:w-1/2 p-8">
-                                <div className="md:max-w-md"><span className="inline-block mb-5 text-sm text-primary font-bold uppercase tracking-widest">Feature</span>
-                                    <h2 className="font-heading mb-10 text-4xl text-accent font-black tracking-tight"><span>Let’s track your business </span><span className="text-primary">easily!</span></h2>
+                                <div className="md:max-w-md"><span className="inline-block mb-5 text-sm text-primary font-bold uppercase tracking-widest">Availability</span>
+                                    <h2 className="font-heading mb-10 text-4xl text-accent font-black tracking-tight"><span>Ready-to-Collect High-Performance</span><span className="text-primary"> PCs!</span></h2>
                                     <div className="flex flex-wrap -m-2.5">
                                         <div className="w-full p-2.5">
                                             <div className="flex flex-wrap -m-3">
@@ -26,8 +26,8 @@ function FeaturesTwo() {
                                                     </div>
                                                 </div>
                                                 <div className="flex-1 p-3">
-                                                    <h3 className="font-heading mb-2 text-xl text-accent font-black">Lorem ipsum dolores</h3>
-                                                    <p className="text-sm text-accent font-bold">Lorem ipsum dolor sit amet sectetur adip elit donec.</p>
+                                                    <h3 className="font-heading mb-2 text-xl text-accent font-black">High-End Performance PCs</h3>
+                                                    <p className="text-sm text-accent font-bold">Experience blazing-fast speeds with our top-of-the-line systems.</p>
                                                 </div>
                                             </div>
                                         </div>
@@ -41,15 +41,21 @@ function FeaturesTwo() {
                                                     </div>
                                                 </div>
                                                 <div className="flex-1 p-3">
-                                                    <h3 className="font-heading mb-2 text-xl text-accent font-black">Lorem ipsum dolores</h3>
-                                                    <p className="text-sm text-accent font-bold">Lorem ipsum dolor sit amet sectetur adip elit donec.</p>
+                                                    <h3 className="font-heading mb-2 text-xl text-accent font-black">Versatile Mid-Range PCs</h3>
+                                                    <p className="text-sm text-accent font-bold">Get the perfect balance of power and affordability with our mid-range options.</p>
                                                 </div>
                                             </div>
                                         </div>
                                     </div>
                                 </div>
                             </div>
-                            <div className="w-full md:w-1/2 p-8"><img className="mx-auto md:mr-0 rounded-3xl" src={FeatureImage2} alt="Feature image three"/></div>
+                            <div className="w-full md:w-1/2 p-8">
+                                <img style={{
+
+                                    borderRadius: "30% 70% 70% 30% / 30% 30% 70% 70% "
+
+                                }} className="mx-auto md:mr-0 rounded-3xl" src={FeatureImage2} alt="Feature image three" />
+                            </div>
                         </div>
                     </div>
                 </div>

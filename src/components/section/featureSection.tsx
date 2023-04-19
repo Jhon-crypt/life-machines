@@ -12,10 +12,13 @@ function FeatureSection() {
                 <div className="container px-4 mx-auto">
                     <div className="mb-20 flex flex-wrap items-end -m-8">
                         <div className="w-full md:w-1/2 p-8">
-                            <h2 className="text-6xl text-accent md:text-7xl font-bold font-heading tracking-px-n leading-tight md:max-w-xl">Advertise impressive product performance.</h2>
+                            <h2 className="text-6xl text-accent md:text-7xl font-bold font-heading tracking-px-n leading-tight md:max-w-xl">Elevate Your Workstation Experience.</h2>
                         </div>
                         <div className="w-full md:w-1/2 p-8">
-                            <p className="text-lg text-accent font-medium leading-relaxed md:max-w-lg">Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat.</p>
+                            <p className="text-lg text-accent font-medium leading-relaxed md:max-w-lg">
+                            Our custom-built high-performance PCs deliver unmatched processing power, graphics capabilities and 
+                            speed, with unbeatable configurability to meet your unique needs.
+                            </p>
                         </div>
                     </div>
                     <div className="flex flex-wrap -m-3">

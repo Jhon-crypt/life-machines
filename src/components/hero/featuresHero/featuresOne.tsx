@@ -10,11 +10,17 @@ function FeaturesOne() {
                 <div className="container mx-auto px-4">
                     <div className="py-16 px-8 md:px-16 bg-neutral rounded-3xl">
                         <div className="flex flex-wrap -m-8">
-                            <div className="w-full md:w-1/2 p-8"><img className="mx-auto md:ml-0 rounded-3xl" src={FeatureImg} alt="Feature image one"/></div>
                             <div className="w-full md:w-1/2 p-8">
-                                <div className="md:max-w-md"><span className="inline-block mb-5 text-sm text-secondary font-bold uppercase tracking-widest">Feature</span>
-                                    <h2 className="font-heading mb-4 text-4xl text-accent font-black tracking-tight"><span>Let’s track your business </span><span className="text-secondary">easily!</span></h2>
-                                    <p className="mb-16 font-bold text-accent">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis venenatis volutpat velit.</p>
+                                <img style={{ 
+
+                                    borderRadius: "30% 70% 70% 30% / 30% 30% 70% 70% "
+
+                                 }} className="mx-auto md:ml-0 rounded-3xl" src={FeatureImg} alt="Feature image one"/>
+                            </div>
+                            <div className="w-full md:w-1/2 p-8">
+                                <div className="md:max-w-md"><span className="inline-block mb-5 text-sm text-secondary font-bold uppercase tracking-widest">A Tailored Solution</span>
+                                    <h2 className="font-heading mb-4 text-4xl text-accent font-black tracking-tight"><span>Unleashing Unmatched Performance </span><span className="text-secondary">easily!</span></h2>
+                                    <p className="mb-16 font-bold text-accent"> A Custom Prebuilt PC Rig Modified to Meet Client's Demands.</p>
                                     <div className="flex flex-wrap -m-2">
                                         <div className="w-auto p-2">
                                             <div className="flex flex-wrap px-3 py-2 bg-gray-100 rounded-full">
@@ -24,7 +30,7 @@ function FeaturesOne() {
                                                     </svg>
                                                 </div>
                                                 <div className="flex-1">
-                                                    <p className="text-sm text-gray-900 font-bold">Exportable code</p>
+                                                    <p className="text-sm text-gray-900 font-bold">Custom-built</p>
                                                 </div>
                                             </div>
                                         </div>
@@ -36,7 +42,7 @@ function FeaturesOne() {
                                                     </svg>
                                                 </div>
                                                 <div className="flex-1">
-                                                    <p className="text-sm text-gray-900 font-bold">Satisfied customers</p>
+                                                    <p className="text-sm text-gray-900 font-bold">High-Performance</p>
                                                 </div>
                                             </div>
                                         </div>
@@ -48,7 +54,7 @@ function FeaturesOne() {
                                                     </svg>
                                                 </div>
                                                 <div className="flex-1">
-                                                    <p className="text-sm text-gray-900 font-bold">Easy integration</p>
+                                                    <p className="text-sm text-gray-900 font-bold">Performance-tuned</p>
                                                 </div>
                                             </div>
                                         </div>
@@ -60,7 +66,7 @@ function FeaturesOne() {
                                                     </svg>
                                                 </div>
                                                 <div className="flex-1">
-                                                    <p className="text-sm text-gray-900 font-bold">Responsive images</p>
+                                                    <p className="text-sm text-gray-900 font-bold">Client-specific</p>
                                                 </div>
                                             </div>
                                         </div>

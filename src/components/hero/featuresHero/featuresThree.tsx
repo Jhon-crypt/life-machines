@@ -10,10 +10,16 @@ function FeaturesThree() {
                 <div className="container mx-auto px-4">
                     <div className="py-16 px-8 md:px-16 bg-neutral rounded-3xl">
                         <div className="flex flex-wrap -m-8">
-                            <div className="w-full md:w-1/2 p-8"><img className="mx-auto md:ml-0 rounded-3xl" src={FeatureImage3} alt="Feature image three"/></div>
                             <div className="w-full md:w-1/2 p-8">
-                                <div className="md:max-w-md"><span className="inline-block mb-5 text-sm text-secondary font-bold uppercase tracking-widest">Feature</span>
-                                    <h2 className="font-heading mb-10 text-4xl text-accent font-black tracking-tight"><span>Let’s track your business </span><span className="text-secondary">easily!</span></h2>
+                                <img style={{
+
+                                    borderRadius: "30% 70% 70% 30% / 30% 30% 70% 70% "
+
+                                }} className="mx-auto md:ml-0 rounded-3xl" src={FeatureImage3} alt="Feature image three" />
+                            </div>
+                            <div className="w-full md:w-1/2 p-8">
+                                <div className="md:max-w-md"><span className="inline-block mb-5 text-sm text-secondary font-bold uppercase tracking-widest">Empowerment</span>
+                                    <h2 className="font-heading mb-10 text-4xl text-accent font-black tracking-tight"><span>Empowering Creatives in Corporate </span><span className="text-secondary"> Design!</span></h2>
                                     <div className="flex flex-wrap -m-2.5">
                                         <div className="w-full p-2.5">
                                             <div className="flex flex-wrap -m-3">
@@ -27,8 +33,8 @@ function FeaturesThree() {
                                                     </div>
                                                 </div>
                                                 <div className="flex-1 p-3">
-                                                    <h3 className="font-heading mb-2 text-xl text-accent font-black">Lorem ipsum dolores</h3>
-                                                    <p className="text-sm text-accent font-bold">Lorem ipsum dolor sit amet sectetur adip elit donec.</p>
+                                                    <h3 className="font-heading mb-2 text-xl text-accent font-black">Professional-Grade Hardware</h3>
+                                                    <p className="text-sm text-accent font-bold">Rely on our professional-grade hardware to power your most demanding workloads.</p>
                                                 </div>
                                             </div>
                                         </div>
@@ -42,8 +48,8 @@ function FeaturesThree() {
                                                     </div>
                                                 </div>
                                                 <div className="flex-1 p-3">
-                                                    <h3 className="font-heading mb-2 text-xl text-accent font-black">Lorem ipsum dolores</h3>
-                                                    <p className="text-sm text-accent font-bold">Lorem ipsum dolor sit amet sectetur adip elit donec.</p>
+                                                    <h3 className="font-heading mb-2 text-xl text-accent font-black">High-End Computing Power</h3>
+                                                    <p className="text-sm text-accent font-bold">Experience lightning-fast speeds and unparalleled performance to bring out your best work.</p>
                                                 </div>
                                             </div>
                                         </div>
