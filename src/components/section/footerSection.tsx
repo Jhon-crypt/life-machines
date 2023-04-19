@@ -22,9 +22,9 @@ function FooterSection() {
                                 <li className="inline-flex p-6"><a className="inline-block text-gray-500 hover:text-accent font-bold" href="#">Contact Us</a></li>
                             </ul>
                             <div className="flex flex-wrap justify-center -m-4 mb-12">
-                                <div className="w-auto p-4"><a className="block" href="#"><img src="zanrly-assets/images/insta.svg" alt="" /></a></div>
-                                <div className="w-auto p-4"><a className="block" href="#"><img src="zanrly-assets/images/twitter.svg" alt="" /></a></div>
-                                <div className="w-auto p-4"><a className="block" href="#"><img src="zanrly-assets/images/footers/fb.svg" alt="" /></a></div>
+                                <div className="w-auto p-4"><a className="block" href="https://www.instagram.com/lifemachinesng/"><b>Instagram</b></a></div>
+                                <div className="w-auto p-4"><a className="block" href="https://twitter.com/lifemachinesng"><b>Twitter</b></a></div>
+                                <div className="w-auto p-4"><a className="block" href="https://api.whatsapp.com/send?phone=2348138481715"><b>Whatsapp</b></a></div>
                             </div>
                             <p className="text-center font-bold"><span>Ⓒ Copyright. All rights reserved by </span><a className="text-blue-500 hover:text-blue-600" href="#">LifeMachinesNg</a></p>
                         </div>
