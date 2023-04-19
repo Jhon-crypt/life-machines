@@ -26,7 +26,7 @@ function ContactDetails() {
                                     </div>
                                     <div className="flex-1 p-3">
                                         <p className="text-gray-500 font-bold">Phone</p>
-                                        <h3 className="font-heading text-xl text-accent font-black">+1 (123) 456 - 790</h3>
+                                        <h3 className="font-heading text-xl text-accent font-black">+234 8138481715</h3>
                                     </div>
                                 </div>
                             </div>
